@@ -1,0 +1,20 @@
+# Ignore artifacts:
+build
+dist
+coverage
+
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+**/dist
+
+.devcontainer/
+.husky/
+.gitignore
+.eslintignore
+.prettierignore
+commitlint.config.js
+package-lock.json
+LICENSE
+**/*.md
